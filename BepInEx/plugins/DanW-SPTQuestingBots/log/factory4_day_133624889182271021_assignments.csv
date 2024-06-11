@@ -1,0 +1,9 @@
+Bot Name,Bot Nickname,Bot Difficulty,Bot Level,Assignment Status,Quest Name,Objective Name,Step Number,Start Time,End Time
+Bot1,"Awafrican",normal,24,Failed,"1st Floor Office","1st Floor Office: Objective #1","1","03:15:26","03:16:52",
+Bot2,"r2go",normal,5,Completed,"3rd Floor Office Rush","3rd Floor Office Rush: Objective #1","2","03:15:26","03:17:47",
+Bot2,"r2go",normal,5,Completed,"3rd Floor Office Rush","3rd Floor Office Rush: Objective #2","4","03:17:48","03:19:01",
+Bot2,"r2go",normal,5,Completed,"Delivery From the Past","Zone case_extraction","2","03:19:06","03:20:30",
+Bot2,"r2go",normal,5,Completed,"The Huntsman Path - Secured Perimeter","Zone huntsman_013","1","03:20:35","03:21:11",
+Bot2,"r2go",normal,5,Completed,"Bathroom Key Spawns","Bathroom Key Spawns: Objective #1","1","03:21:16","03:21:29",
+Bot2,"r2go",normal,5,Completed,"Bathroom Key Spawns","Bathroom Key Spawns: Objective #2","1","03:21:34","03:21:42",
+Bot2,"r2go",normal,5,Failed,"1st Floor Office","1st Floor Office: Objective #2","1","03:21:47","03:23:24",
